@@ -36,6 +36,11 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
+
+<h3> Procedd </h3>
+- 커뮤니티 : Slack
+- 이슈관리 : Github
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
