@@ -13,7 +13,8 @@
 <h2> Personal Experiences </h2>
 
 - 2017 : 전국 고교 로봇대회 출전
-- 2022-6 ~ 2022-12 : 그린컴퓨터아카데미(자바 & 코틀린(증강현실)) 수료
+- 2022.1 ~ 2022.2 : 42서울
+- 2022.6 ~ 2022.12 : 그린컴퓨터아카데미(자바 & 코틀린(증강현실)) 수료
 
 <h2> Stack </h2>
 
@@ -24,7 +25,7 @@
 <img src="https://img.shields.io/badge/Web Servel-003545?style=for-the-badge&logo=Web Servel&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=Kotlin&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
