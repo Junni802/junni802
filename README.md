@@ -1,9 +1,15 @@
 <h1> 👋 Hey! Nice to see you 🚀  </h1>
 
 <h2> Introduce </h2>
+
 저의 이름은 박준혁입니다
 
 포기란 없다라는 신념을 가진 엔지니어 입니다 어떤 일이 있어도 끝까지 수행해낼수 있습니다.
+
+<h2> Personal Experiences </h2>
+
+- 2017 전국 고교 로봇대회 출전
+- 2022-6 ~ 2022-12 : 그린컴퓨터아카데미(자바 & 코틀린(증강현실)) 수료
 
 Here are some ideas to get you started:
 
