@@ -39,6 +39,7 @@
 
 <h3> Procedd </h3>
 - 커뮤니티 : Slack
+- 
 - 이슈관리 : Github
 
 Here are some ideas to get you started:
