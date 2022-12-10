@@ -1,4 +1,4 @@
-<h1> 👋 환영합니다! 🚀  </h1>
+<h1> 👋 Hey! Nice to see you 🚀  </h1>
 
 <h2> Introduce </h2>
 저의 이름은 박준혁입니다
