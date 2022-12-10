@@ -1,4 +1,4 @@
-<h1> 만나서 반갑습니다! 👋</h1>
+# 만나서 반갑습니다! 👋
 
 <!--
 **Junni802/junni802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
