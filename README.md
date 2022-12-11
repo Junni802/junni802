@@ -62,11 +62,11 @@
   
   
   <div align="center">
-   
-   로그인 화면
-   
+     
   
   <img src="http://junni802.cafe24.com/upload/Wooda_Login.jpg" width="400dp" height="600dp"/>  
+   
+  로그인 화면
    
   </div>
  
