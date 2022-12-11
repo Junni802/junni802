@@ -60,10 +60,11 @@
   
   - 사용한 skill 또는 지식 : MVC, MVVM, retrofit2, Rest APi, JSon, KakaoMap API, ViewPager2, Coroutin, LifeCycle
   
-  로그인 
-  
   
   <div align="center">
+   
+   로그인 화면
+   
   
   <img src="http://junni802.cafe24.com/upload/Wooda_Login.jpg" width="400dp" height="600dp"/>  
    
