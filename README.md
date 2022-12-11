@@ -25,9 +25,12 @@
 - <img src="https://img.shields.io/badge/MVP-808080?style=for-the-badge&logo=MVP&logoColor=black"> , <img src="https://img.shields.io/badge/MVVM-808080?style=for-the-badge&logo=MVVM&logoColor=black">
 -  <img src="https://img.shields.io/badge/DataBinding-808080?style=for-the-badge&logo=DataBinding&logoColor=black"> ,  <img src="https://img.shields.io/badge/Coroutine-808080?style=for-the-badge&logo=Coroutine&logoColor=white"> , <img src="https://img.shields.io/badge/LifeCycle-808080?style=for-the-badge&logo=LifeCycle&logoColor=white">
 
+<h3> Server </h3>
+
+- <img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=Servlet&logoColor=white"/> , <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=JSP&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=Servlet&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Web Servel-003545?style=for-the-badge&logo=Web Servel&logoColor=white">
