@@ -35,7 +35,7 @@
 
 <h3> 배포환경 </h3>
 
-<img src="https://img.shields.io/badge/ Cafe24 WebHosting-6DB33F?style=for-the-badge&logo=Cafe24 WebHosting&logoColor=white">
+- Cafe24 Web Hostring(현재 안드로이드 버전만 유지중)
 
 Here are some ideas to get you started:
 
