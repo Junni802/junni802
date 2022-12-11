@@ -33,6 +33,10 @@
 - 커뮤니티  <img src="https://img.shields.io/badge/ Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 - 이슈관리  <img src="https://img.shields.io/badge/ Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
+<h3> 배포환경 </h3>
+
+<img src="https://img.shields.io/badge/ Cafe24 WebHosting-6DB33F?style=for-the-badge&logo=Cafe24 WebHosting&logoColor=white">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
