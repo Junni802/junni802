@@ -22,7 +22,8 @@
 <h3> Android </h3>
 
 - <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=Kotlin&logoColor=black"> , <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=gray"/>
-- <img src="https://img.shields.io/badge/MVP-808080?style=for-the-badge&logo=MVP&logoColor=black">
+- <img src="https://img.shields.io/badge/MVP-808080?style=for-the-badge&logo=MVP&logoColor=black"> , <img src="https://img.shields.io/badge/MVVM-808080?style=for-the-badge&logo=MVVM&logoColor=black">
+-  <img src="https://img.shields.io/badge/DataBinding-808080?style=for-the-badge&logo=DataBinding&logoColor=black"> ,  <img src="https://img.shields.io/badge/Coroutine-808080?style=for-the-badge&logo=Coroutine&logoColor=black"> , <img src="https://img.shields.io/badge/LifeCycle-808080?style=for-the-badge&logo=LifeCycle&logoColor=black">
 
 
 
