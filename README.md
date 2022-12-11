@@ -50,7 +50,17 @@
  
  - 기간 : 2022.9 ~ 2022.11
  
- - 사용한 skill 또는 지식 : MVC모델, KaKao Map API, ajax, mysql, html, javascript, css
+ - 사용한 skill 또는 지식 : MVC패턴, KaKao Map API, ajax, mysql, html, javascript, css
+ 
+ 
+ 
+ <h3> Wooda(안드로이드 버전) <h3>
+  
+  - 기간 : 2022.11 ~ ing(진행중)
+  
+  - 사용한 skill 또는 지식 : MVC, MVVM, retrofit2, Rest APi, JSon, KakaoMap API, ViewPager2, Coroutin, LifeCycle
+  
+  <img src=" http://junni802.cafe24.com/upload/Wooda_Login.jpg">
  
  
  
