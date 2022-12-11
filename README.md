@@ -65,9 +65,7 @@
      
   
   <img src="http://junni802.cafe24.com/upload/Wooda_Login.jpg" width="400dp" height="600dp"/>  
-   
-   
-   ↓
+
    
    </div>
    
@@ -79,8 +77,7 @@
       
 
    <img src="http://junni802.cafe24.com/upload/Wooda_Join.jpg" width="400dp" height="600dp"/>  
-   
-  ↓
+
    
    </div>
   
