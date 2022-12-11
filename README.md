@@ -74,7 +74,7 @@
    - 로그인 화면
   
    
-     <div align="center">
+  <div align="center">
       
 
    <img src="http://junni802.cafe24.com/upload/Wooda_Join.jpg" width="400dp" height="600dp"/>  
