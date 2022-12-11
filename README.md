@@ -29,7 +29,7 @@
 
 - <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=gray"/> ,  <img src="https://img.shields.io/badge/Servlet / JSP-61DAFB?style=for-the-badge&logo=Servlet / JS&logoColor=white"/> 
-- <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/> , <img src="https://img.shields.io/badge/Cafe24 Web Hosting-F8DC75?style=for-the-badge&logo=Cafe24 Web Hosting&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/> , <img src="https://img.shields.io/badge/ Cafe24 Web Hosting-F8DC75?style=for-the-badge&logo=Cafe24 Web Hosting&logoColor=white"/>
 
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
