@@ -21,13 +21,14 @@
 
 <h3> Android </h3>
 
-- <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=Kotlin&logoColor=black"> , <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=gray"/>
+- <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=Kotlin&logoColor=black">
 - <img src="https://img.shields.io/badge/MVC-808080?style=for-the-badge&logo=MVC&logoColor=black"> , <img src="https://img.shields.io/badge/MVVM-808080?style=for-the-badge&logo=MVVM&logoColor=black">
 -  <img src="https://img.shields.io/badge/DataBinding-808080?style=for-the-badge&logo=DataBinding&logoColor=black"> ,  <img src="https://img.shields.io/badge/Coroutine-808080?style=for-the-badge&logo=Coroutine&logoColor=white"> , <img src="https://img.shields.io/badge/LifeCycle-808080?style=for-the-badge&logo=LifeCycle&logoColor=white">
 
 <h3> Server </h3>
 
-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> , <img src="https://img.shields.io/badge/Servlet / JSP-61DAFB?style=for-the-badge&logo=Servlet / JS&logoColor=white"/> , <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> , <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=gray"/>
+- <img src="https://img.shields.io/badge/Servlet / JSP-61DAFB?style=for-the-badge&logo=Servlet / JS&logoColor=white"/> , <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/> , 
 
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
