@@ -73,7 +73,7 @@
 
    <img src="http://junni802.cafe24.com/upload/Wooda_Join.jpg" width="400dp" height="600dp"/>  
    
-   회원가입 - 기능 : 이메일 중복체크, 이메일 인증, 닉네임 중복확인, 비밀번호 동일 입력
+   회원가입 - 기능 : Thrad 타이머, 이메일 중복체크, 이메일 인증, 닉네임 중복확인, 비밀번호 동일 입력
    
   </div>
  
