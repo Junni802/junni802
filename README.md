@@ -60,6 +60,8 @@
   
   - 사용한 skill 또는 지식 : MVC, MVVM, retrofit2, Rest APi, JSon, KakaoMap API, ViewPager2, Coroutin, LifeCycle
   
+  - 로그인 화면
+       - 로그인 체크, 회원가입, 아이디 찾기(진행중), 비밀번호 찾기(진행중)
   
   <div align="center">
      
@@ -68,9 +70,6 @@
 
    
    </div>
-   
-   - 로그인 화면
-       - 로그인 체크, 회원가입, 아이디 찾기(진행중), 비밀번호 찾기(진행중)
   
    
   <div align="center">
