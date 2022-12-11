@@ -44,3 +44,8 @@
 <h3> 배포환경 </h3>
 
 - Cafe24 Web Hostring(현재 모바일 버전만 유지중)
+
+
+<h3> Wooda(웹 사이트) <h3>
+ - 기간 : 2022.9 ~ 2022.11
+ - 사용한 skill 또는 지식 : MVC모델, KaKao Map API, ajax, mysql, html, javascript, css
