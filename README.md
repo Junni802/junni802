@@ -28,12 +28,10 @@
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">  <img src="https://img.shields.io/badge/MYSQL Worbrench-4479A1?style=for-the-badge&logo=MYSQL Worbrench&logoColor=white">  <img src="https://img.shields.io/badge/ Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">  <img src="https://img.shields.io/badge/ FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white">  <img src="https://img.shields.io/badge/ FileZillat-F8DC75?style=for-the-badge&logo=FileZilla&logoColor=white">
 
-
-
 <h3> Procedd </h3>
-- 커뮤니티 : Slack
-- 
-- 이슈관리 : Github
+
+- 커뮤니티 : <img src="https://img.shields.io/badge/ Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+- 이슈관리 : <img src="https://img.shields.io/badge/ Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
 Here are some ideas to get you started:
 
