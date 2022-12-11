@@ -62,7 +62,7 @@
   
   로그인 페이지
   
-  <img src="http://junni802.cafe24.com/upload/Wooda_Login.jpg" width="400dp" height="600dp" align='center">  
+  <img src="http://junni802.cafe24.com/upload/Wooda_Login.jpg" width="400dp" height="600dp" align='center"/>  
  
  
  
