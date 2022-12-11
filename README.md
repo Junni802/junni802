@@ -27,7 +27,7 @@
 
 <h3> Server </h3>
 
-- <img src="https://img.shields.io/badge/Servlet-61DAFB?style=for-the-badge&logo=Servlet&logoColor=white"/> , <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=JSP&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Servlet-61DAFB?style=for-the-badge&logo=Servlet&logoColor=white"/> , <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=JSP&logoColor=white"/> , <img src="https://img.shields.io/badge/Apache Tomcat-#F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
 
 
 
