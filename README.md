@@ -22,7 +22,7 @@
 <h3> Android </h3>
 
 - <img src="https://img.shields.io/badge/Kotlin-61DAFB?style=for-the-badge&logo=Kotlin&logoColor=black"> , <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=gray"/>
-- <img src="https://img.shields.io/badge/MVP-61DAFB?style=for-the-badge&logo=MVP&logoColor=black">
+- <img src="https://img.shields.io/badge/MVP-808080?style=for-the-badge&logo=MVP&logoColor=black">
 
 
 
