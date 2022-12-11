@@ -33,10 +33,6 @@
 - 커뮤니티  <img src="https://img.shields.io/badge/ Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 - 이슈관리  <img src="https://img.shields.io/badge/ Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
-<h3> 배포환경 </h3>
-
-- Cafe24 Web Hostring(현재 모바일 버전만 유지중)
-
 
 <h2> 프로젝트 - Wooda(우리들의 다이어리) </h2>
 
@@ -44,3 +40,7 @@
 
 우리들의 일상에서 연인 혹은 친구들 등 여행을 갈 일이 있으면 고민이 "어디를 가야 좋은 추억을 쌓고 올 수 있을까?"라는 고민이 많다
 그래서 이러한 사용자들의 고민을 조금이나마 덜어주자 글을 작성하는 사람들 입장에서도 자신의 추억을 기록하여 추억의 공간이 될 수 있는 동시에 자기의 경험을 다른 사용자들에게 공유하여 다른 사용자들이 이러한 경험을 읽고서 자신이 원하던 여행지를 찾을 수 있길 바라며 "우리들의 다이어리"라는 사이트 와 애플리케이션을 동시에 만들게 되었습니다.
+
+<h3> 배포환경 </h3>
+
+- Cafe24 Web Hostring(현재 모바일 버전만 유지중)
