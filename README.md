@@ -52,7 +52,7 @@
  
  - 사용한 skill 또는 지식 : MVC패턴, KaKao Map API, ajax, mysql, html, javascript, css
  
- - 깃허브 주소 : ###https://github.com/Junni802/Wooda-Web-Java
+ - 깃허브 주소 : https://github.com/Junni802/Wooda-Web-Java
 
  
  
@@ -63,9 +63,9 @@
   
   - 사용한 skill 또는 지식 : MVC, MVVM, retrofit2, Rest APi, JSon, KakaoMap API, ViewPager2, Coroutin, LifeCycle
   
-  - 깃허브 주소(자바) : ###https://github.com/Junni802/Wooda-Android-_Kotlin
+  - 깃허브 주소(코틀린) : https://github.com/Junni802/Wooda-Android-_Kotlin
   
-  - 깃허브 주소(자바) : ###https://github.com/Junni802/Wooda-Android-_JAVA
+  - 깃허브 주소(자바) : https://github.com/Junni802/Wooda-Android-_JAVA
 
 
  
