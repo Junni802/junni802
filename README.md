@@ -24,8 +24,8 @@ I think the way to become a good developer is not to go alone, but to grow throu
 
 <h3> Procedd </h3>
 
-- 커뮤니티  <img src="https://img.shields.io/badge/ Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-- 이슈관리  <img src="https://img.shields.io/badge/ Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+- 커뮤니티  <img src="https://img.shields.io/badge/ Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">  <img src="https://img.shields.io/badge/ microsoftteams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+- 이슈관리  <img src="https://img.shields.io/badge/ Github-181717?style=for-the-badge&logo=Github&logoColor=white">   <img src="https://img.shields.io/badge/ bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
 
 
 <h2> 프로젝트 - Wooda(우리들의 다이어리) </h2>
