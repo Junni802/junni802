@@ -38,7 +38,7 @@ I think the way to become a good developer is not to go alone, but to grow throu
 
 <h3> 배포환경 </h3>
 
-- Cafe24 Web Hostring(현재 모바일 버전만 유지중)
+- Cafe24 Web Hostring(현재 미운영중 사유 : 직장업무와 병행 불가능 판단 종료)
 
 
 <h3> Wooda(웹 사이트) <h3>
@@ -54,7 +54,7 @@ I think the way to become a good developer is not to go alone, but to grow throu
  
  <h3> Wooda(안드로이드 버전) <h3>
   
-  - 기간 : 2022.11 ~ ing(진행중)
+  - 기간 : 2022.11 ~ 2023.01.04
   
   - 사용한 skill 또는 지식 : MVC, MVVM, retrofit2, Rest APi, JSon, KakaoMap API, ViewPager2, Coroutin, LifeCycle
   
