@@ -61,10 +61,6 @@ I think the way to become a good developer is not to go alone, but to grow throu
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-      
-<h3> Development Tools </h3>
-
-<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">  <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">  <img src="https://img.shields.io/badge/MYSQL Worbrench-4479A1?style=for-the-badge&logo=MYSQL Worbrench&logoColor=white">  <img src="https://img.shields.io/badge/ Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">  <img src="https://img.shields.io/badge/ FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white"> 
 
 <h3> Procedd </h3>
 
