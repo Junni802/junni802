@@ -17,11 +17,10 @@ I think the way to become a good developer is not to go alone, but to grow throu
 
 <div align=center><h1>📚 STACKS</h1></div>
 
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
+<h4> BackEnd Stack </h4>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -60,7 +59,6 @@ I think the way to become a good developer is not to go alone, but to grow throu
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
-</div>
 
 <h3> Procedd </h3>
 
