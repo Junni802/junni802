@@ -44,6 +44,7 @@ I think the way to become a good developer is not to go alone, but to grow throu
 - 이슈관리
   ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+  ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=Datadog&logoColor=white)  
 
 
 <h2> 프로젝트 - Wooda(우리들의 다이어리) </h2>
