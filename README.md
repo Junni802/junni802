@@ -18,8 +18,7 @@ I think the way to become a good developer is not to go alone, but to grow throu
 <div align=center><h1>📚 STACKS</h1></div>
 
 <h4> BackEnd Stack </h4>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
