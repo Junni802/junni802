@@ -84,6 +84,8 @@ I think the way to become a good developer is not to go alone, but to grow throu
  ## 📊 My GitHub Stats
 
 ![Junni802's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junni802&show_icons=true&theme=radical)
+## 📊 My Monthly Activity
+![My Activity Graph](https://yourdomain.com/my-graph.png)
 
  
  
