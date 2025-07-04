@@ -1,0 +1,22 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{cron: "0 0 * * 0"}] # 매주 일요일 자정 자동 실행
+  workflow_dispatch:            # 수동 실행도 가능
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "activity"
+          config_timezone: "Asia/Seoul"
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_followup: yes
+          plugin_languages: yes
+          plugin_achievements: yes
