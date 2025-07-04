@@ -87,7 +87,7 @@ I think the way to become a good developer is not to go alone, but to grow throu
 ## 📈 GitHub Stats & Activity
 
 <!-- START_SECTION:activity -->
-https://raw.githubusercontent.com/Junni802/junni802/main/github-metrics.svg
+![Metrics](https://raw.githubusercontent.com/Junni802/junni802/main/github-metrics.svg) 안되자나 
 <!-- END_SECTION:activity -->
 
  
