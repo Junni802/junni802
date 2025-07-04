@@ -81,6 +81,9 @@ I think the way to become a good developer is not to go alone, but to grow throu
   - 깃허브 주소(자바) : https://github.com/Junni802/Wooda-Android-_JAVA
 
 
- 
+ ## 📊 My GitHub Stats
+
+![Junni802's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junni802&show_icons=true&theme=radical)
+
  
  
